@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppContatos</string>
+    <string name="contatos">Contatos</string>
+    <string name="loading">Carregando contatos...</string>
 </resources>

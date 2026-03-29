@@ -1,0 +1,10 @@
+package com.example.appcontatos.data
+
+data class Contact(
+    val id: Int = 0,
+    val fistName: String = "",
+    val lastName: String = "",
+    val phoneNumber: String = "",
+    val email: String = "",
+    val isFavorite: Boolean = false
+)
